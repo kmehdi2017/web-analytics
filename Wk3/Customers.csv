@@ -1,0 +1,93 @@
+"c_id","c_lname","c_fname","c_phone","c_street","c_city","c_state","c_zip","c_email","c_sex","c_DOB","c_licence","c_creditcard","c_ccnumber","c_ccexpiry","c_memberdate"
+1,"Hunter1","Sheryl1","415 736-7128","123 Main St.","Lawrence","KS","94301","cust@aol.com","M",10/16/1922 0:00:00,"abc-123-x-456","Visa","123-456-789","03-03",10/16/1947 0:00:00
+2,"Straight1","Dean1","415 734-2919","123 Main St.","Oakland","CA","94609","cust@aol.com","M",7/12/1925 0:00:00,"abc-123-x-456","American Express","123-456-789","03-03",7/12/1950 0:00:00
+3,"Bennet1","Abraham1","415 758-9932","123 Main St.","Berkeley","CA","94705","cust@aol.com","U",4/7/1928 0:00:00,"abc-123-x-456","American Express","123-456-789","03-03",4/7/1953 0:00:00
+4,"Stringer1","Dirk1","415 743-2991","123 Main St.","Oakland","CA","94609","cust@aol.com","F",1/2/1931 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",1/2/1956 0:00:00
+5,"Karsen1","Livia1","415 634-9219","123 Main St.","Oakland","CA","94609","cust@aol.com","F",9/28/1933 0:00:00,"abc-123-x-456","Visa","123-456-789","03-03",9/28/1958 0:00:00
+6,"White3","Johnson2","408 696-7223","123 Main St.","Menlo Park","CA","94025","cust@aol.com","M",6/24/1936 0:00:00,"abc-123-x-456","Travel","123-456-789","03-03",6/24/1961 0:00:00
+7,"White","Johnson","408 496-7223","123 Main St.","Menlo Park","CA","94025","cust@aol.com","F",3/21/1939 0:00:00,"abc-123-x-456","Visa","123-456-789","03-03",3/21/1964 0:00:00
+8,"White4","Johnson3","408 796-7223","123 Main St.","Menlo Park","CA","94025","cust@aol.com","F",12/15/1941 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",12/15/1966 0:00:00
+9,"Green4","Marjorie3","415 686-7020","123 Main St.","Oakland","CA","94618","cust@aol.com","F",9/10/1944 0:00:00,"abc-123-x-456","Travel","123-456-789","03-03",9/10/1969 0:00:00
+10,"Green","Marjorie","415 986-7020","123 Main St.","Oakland","CA","94618","cust@aol.com","F",6/7/1947 0:00:00,"abc-123-x-456","American Express","123-456-789","03-03",6/7/1972 0:00:00
+11,"Green3","Marjorie2","415 786-7020","123 Main St.","Oakland","CA","94618","cust@aol.com","F",3/3/1950 0:00:00,"abc-123-x-456","American Express","123-456-789","03-03",3/3/1975 0:00:00
+12,"Carson3","Cheryl2","415 748-7723","123 Main St.","Berkeley","CA","94705","cust@aol.com","M",11/27/1952 0:00:00,"abc-123-x-456","Travel","123-456-789","03-03",11/27/1977 0:00:00
+13,"Carson4","Cheryl3","415 848-7723","123 Main St.","Berkeley","CA","94705","cust@aol.com","M",8/24/1955 0:00:00,"abc-123-x-456","American Express","123-456-789","03-03",8/24/1980 0:00:00
+14,"Carson","Cheryl","415 548-7723","123 Main St.","Berkeley","CA","94705","cust@aol.com","M",5/20/1958 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",5/20/1983 0:00:00
+15,"Blotchet-Halls1","Reginald1","503 645-6402","123 Main St.","Corvallis","OR","97330","cust@aol.com","U",2/13/1961 0:00:00,"abc-123-x-456","American Express","123-456-789","03-03",2/13/1986 0:00:00
+16,"O'Leary","Michael","408 286-2428","123 Main St.","San Jose","CA","95128","cust@aol.com","F",11/10/1963 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",11/10/1988 0:00:00
+17,"O'Leary4","Michael3","408 586-2428","123 Main St.","San Jose","CA","95128","cust@aol.com","F",8/6/1966 0:00:00,"abc-123-x-456","American Express","123-456-789","03-03",8/6/1991 0:00:00
+18,"O'Leary3","Michael2","408 486-2428","123 Main St.","San Jose","CA","95128","cust@aol.com","F",5/2/1969 0:00:00,"abc-123-x-456","Travel","123-456-789","03-03",5/2/1994 0:00:00
+19,"White1","Johnson1","408 596-7223","123 Main St.","Gary","IN","94025","cust@aol.com","F",1/27/1972 0:00:00,"abc-123-x-456","Travel","123-456-789","03-03",1/27/1997 0:00:00
+20,"Straight3","Dean2","415 634-2919","123 Main St.","Oakland","CA","94609","cust@aol.com","M",10/23/1974 0:00:00,"abc-123-x-456","American Express","123-456-789","03-03",10/23/1999 0:00:00
+21,"Straight4","Dean3","415 534-2919","123 Main St.","Oakland","CA","94609","cust@aol.com","M",10/16/1922 0:00:00,"abc-123-x-456","Travel","123-456-789","03-03",10/16/1947 0:00:00
+22,"Straight","Dean","415 834-2919","123 Main St.","Oakland","CA","94609","cust@aol.com","M",7/12/1925 0:00:00,"abc-123-x-456","Visa","123-456-789","03-03",7/12/1950 0:00:00
+23,"Locksley1","Charlene1","415 685-4620","123 Main St.","San Francisco","CA","94130","cust@aol.com","F",4/7/1928 0:00:00,"abc-123-x-456","Travel","123-456-789","03-03",4/7/1953 0:00:00
+24,"MacFeather1","Stearns1","415 454-7128","123 Main St.","Nashville","TN","94612","cust@aol.com","F",1/2/1931 0:00:00,"abc-123-x-456","Visa","123-456-789","03-03",1/2/1956 0:00:00
+25,"Carson1","Cheryl1","415 648-7723","123 Main St.","Covelo","CA","94705","cust@aol.com","U",9/28/1933 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",9/28/1958 0:00:00
+26,"Smith","Meander","913 843-0462","123 Main St.","Lawrence","KS","66044","cust@aol.com","M",6/24/1936 0:00:00,"abc-123-x-456","Visa","123-456-789","03-03",6/24/1961 0:00:00
+27,"Smith4","Meander3","913 543-0462","123 Main St.","Lawrence","KS","66044","cust@aol.com","M",3/21/1939 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",3/21/1964 0:00:00
+28,"Smith3","Meander2","913 643-0462","123 Main St.","Covelo","CA","66044","cust@aol.com","M",12/15/1941 0:00:00,"abc-123-x-456","Travel","123-456-789","03-03",12/15/1966 0:00:00
+29,"Yokomoto1","Akiko1","415 835-4228","123 Main St.","Walnut Creek","CA","94595","cust@aol.com","M",9/10/1944 0:00:00,"abc-123-x-456","Visa","123-456-789","03-03",9/10/1969 0:00:00
+30,"Bennet3","Abraham2","415 858-9932","123 Main St.","Berkeley","CA","94705","cust@aol.com","M",6/7/1947 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",6/7/1972 0:00:00
+31,"Bennet4","Abraham3","415 958-9932","123 Main St.","Berkeley","CA","94705","cust@aol.com","M",3/3/1950 0:00:00,"abc-123-x-456","Travel","123-456-789","03-03",3/3/1975 0:00:00
+32,"Bennet","Abraham","415 658-9932","123 Main St.","Berkeley","CA","94705","cust@aol.com","M",11/27/1952 0:00:00,"abc-123-x-456","American Express","123-456-789","03-03",11/27/1977 0:00:00
+33,"DeFrance1","Michel1","219 647-9982","123 Main St.","Gary","IN","46403","cust@aol.com","F",8/24/1955 0:00:00,"abc-123-x-456","Visa","123-456-789","03-03",8/24/1980 0:00:00
+34,"Dull","Ann","415 836-7128","123 Main St.","Palo Alto","CA","94301","cust@aol.com","F",5/20/1958 0:00:00,"abc-123-x-456","Travel","123-456-789","03-03",5/20/1983 0:00:00
+35,"Dull4","Ann3","415 536-7128","123 Main St.","Rockville","MD","94301","cust@aol.com","F",2/13/1961 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",2/13/1986 0:00:00
+36,"Dull3","Ann2","415 636-7128","123 Main St.","Palo Alto","CA","94301","cust@aol.com","F",11/10/1963 0:00:00,"abc-123-x-456","Travel","123-456-789","03-03",11/10/1988 0:00:00
+37,"Gringlesby","Burt","707 938-6445","123 Main St.","Covelo","CA","95428","cust@aol.com","U",8/6/1966 0:00:00,"abc-123-x-456","Visa","123-456-789","03-03",8/6/1991 0:00:00
+38,"Gringlesby4","Burt3","707 638-6445","123 Main St.","Covelo","CA","95428","cust@aol.com","F",5/2/1969 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",5/2/1994 0:00:00
+39,"Gringlesby3","Burt2","707 738-6445","123 Main St.","Covelo","CA","95428","cust@aol.com","F",1/27/1972 0:00:00,"abc-123-x-456","Visa","123-456-789","03-03",1/27/1997 0:00:00
+40,"Locksley","Charlene","415 585-4620","123 Main St.","San Francisco","CA","94130","cust@aol.com","F",10/23/1974 0:00:00,"abc-123-x-456","American Express","123-456-789","03-03",10/23/1999 0:00:00
+41,"Locksley4","Charlene3","415 885-4620","123 Main St.","Rockville","MD","94130","cust@aol.com","F",7/19/1977 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",7/19/2002 0:00:00
+42,"Locksley3","Charlene2","415 785-4620","123 Main St.","San Francisco","CA","94130","cust@aol.com","F",4/14/1980 0:00:00,"abc-123-x-456","Visa","123-456-789","03-03",4/14/2005 0:00:00
+43,"McBadden1","Heather1","707 548-4982","123 Main St.","San Jose","CA","95688","cust@aol.com","F",1/9/1983 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",1/9/2008 0:00:00
+44,"del Castillo1","Innes1","615 896-8275","123 Main St.","Ann Arbor","MI","48105","cust@aol.com","U",10/5/1985 0:00:00,"abc-123-x-456","Travel","123-456-789","03-03",10/5/2010 0:00:00
+45,"Greene","Morningstar","615 297-2723","123 Main St.","Nashville","TN","37215","cust@aol.com","M",7/1/1988 0:00:00,"abc-123-x-456","Visa","123-456-789","03-03",7/1/2013 0:00:00
+46,"Greene4","Morningstar3","615 597-2723","123 Main St.","Gary","IN","37215","cust@aol.com","M",3/28/1991 0:00:00,"abc-123-x-456","American Express","123-456-789","03-03",3/28/2016 0:00:00
+47,"Greene3","Morningstar2","615 497-2723","123 Main St.","Nashville","TN","37215","cust@aol.com","U",12/22/1993 0:00:00,"abc-123-x-456","Visa","123-456-789","03-03",12/22/2018 0:00:00
+48,"O'Leary1","Michael1","408 386-2428","123 Main St.","San Jose","CA","95128","cust@aol.com","F",9/17/1996 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",9/17/2021 0:00:00
+49,"Panteley1","Sylvia1","301 846-8853","123 Main St.","Rockville","MD","20853","cust@aol.com","M",6/14/1999 0:00:00,"abc-123-x-456","Visa","123-456-789","03-03",6/14/2024 0:00:00
+50,"Dull1","Ann1","415 736-7128","123 Main St.","Palo Alto","CA","94301","cust@aol.com","F",3/10/2002 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",3/10/2027 0:00:00
+51,"Blotchet-Halls3","Reginald2","503 545-6402","123 Main St.","Corvallis","OR","97330","cust@aol.com","F",10/16/1922 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",10/16/1947 0:00:00
+52,"Blotchet-Halls","Reginald","503 745-6402","123 Main St.","Corvallis","OR","97330","cust@aol.com","F",7/12/1925 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",7/12/1950 0:00:00
+53,"Blotchet-Halls4","Reginald3","503 445-6402","123 Main St.","Ann Arbor","MI","97330","cust@aol.com","F",4/7/1928 0:00:00,"abc-123-x-456","Visa","123-456-789","03-03",4/7/1953 0:00:00
+54,"Yokomoto3","Akiko2","415 735-4228","123 Main St.","Walnut Creek","CA","94595","cust@aol.com","M",1/2/1931 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",1/2/1956 0:00:00
+55,"Yokomoto4","Akiko3","415 635-4228","123 Main St.","Walnut Creek","CA","94595","cust@aol.com","U",9/28/1933 0:00:00,"abc-123-x-456","American Express","123-456-789","03-03",9/28/1958 0:00:00
+56,"Yokomoto","Akiko","415 935-4228","123 Main St.","San Jose","CA","94595","cust@aol.com","M",6/24/1936 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",6/24/1961 0:00:00
+57,"del Castillo","Innes","615 996-8275","123 Main St.","Corvallis","OR","48105","cust@aol.com","M",3/21/1939 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",3/21/1964 0:00:00
+58,"del Castillo4","Innes3","615 696-8275","123 Main St.","Ann Arbor","MI","48105","cust@aol.com","M",12/15/1941 0:00:00,"abc-123-x-456","American Express","123-456-789","03-03",12/15/1966 0:00:00
+59,"del Castillo3","Innes2","615 796-8275","123 Main St.","Ann Arbor","MI","48105","cust@aol.com","M",9/10/1944 0:00:00,"abc-123-x-456","American Express","123-456-789","03-03",9/10/1969 0:00:00
+60,"Green1","Marjorie1","415 886-7020","123 Main St.","Oakland","CA","94618","cust@aol.com","F",10/16/1922 0:00:00,"abc-123-x-456","Travel","123-456-789","03-03",10/16/1947 0:00:00
+61,"DeFrance3","Michel2","219 747-9982","123 Main St.","Gary","IN","46403","cust@aol.com","F",3/3/1950 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",3/3/1975 0:00:00
+62,"DeFrance4","Michel3","219 847-9982","123 Main St.","Gary","IN","46403","cust@aol.com","F",6/7/1947 0:00:00,"abc-123-x-456","American Express","123-456-789","03-03",6/7/1972 0:00:00
+63,"DeFrance","Michel","219 547-9982","123 Main St.","Gary","IN","46403","cust@aol.com","F",11/27/1952 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",11/27/1977 0:00:00
+64,"Stringer4","Dirk1","415 543-2991","123 Main St.","Menlo Park","CA","94609","cust@aol.com","F",8/24/1955 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",8/24/1980 0:00:00
+65,"Stringer","Dirk","415 843-2991","123 Main St.","Lawrence","KS","94609","cust@aol.com","F",5/20/1958 0:00:00,"abc-123-x-456","Travel","123-456-789","03-03",5/20/1983 0:00:00
+66,"Stringer3","Dirk2","415 643-2991","123 Main St.","Oakland","CA","94609","cust@aol.com","F",2/13/1961 0:00:00,"abc-123-x-456","American Express","123-456-789","03-03",2/13/1986 0:00:00
+67,"MacFeather3","Stearns2","415 554-7128","123 Main St.","Menlo Park","CA","94612","cust@aol.com","F",11/10/1963 0:00:00,"abc-123-x-456","American Express","123-456-789","03-03",11/10/1988 0:00:00
+68,"MacFeather4","Stearns3","415 654-7128","123 Main St.","Oakland","CA","94612","cust@aol.com","F",8/6/1966 0:00:00,"abc-123-x-456","Travel","123-456-789","03-03",8/6/1991 0:00:00
+69,"MacFeather","Stearns","415 354-7128","123 Main St.","Nashville","TN","94612","cust@aol.com","F",5/2/1969 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",5/2/1994 0:00:00
+70,"Karsen3","Livia2","415 734-9219","123 Main St.","Oakland","CA","94609","cust@aol.com","U",1/27/1972 0:00:00,"abc-123-x-456","American Express","123-456-789","03-03",1/27/1997 0:00:00
+71,"Karsen4","Livia3","415 834-9219","123 Main St.","Nashville","TN","94609","cust@aol.com","F",10/23/1974 0:00:00,"abc-123-x-456","Travel","123-456-789","03-03",10/23/1999 0:00:00
+72,"Karsen","Livia","415 534-9219","123 Main St.","Oakland","CA","94609","cust@aol.com","U",7/19/1977 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",7/19/2002 0:00:00
+73,"Ringer1","Albert2","801 626-0752","123 Main St.","Salt Lake City","UT","84152","cust@aol.com","F",4/14/1980 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",4/14/2005 0:00:00
+74,"Panteley3","Sylvia2","301 746-8853","123 Main St.","Rockville","MD","20853","cust@aol.com","M",1/9/1983 0:00:00,"abc-123-x-456","American Express","123-456-789","03-03",1/9/2008 0:00:00
+75,"Panteley","Sylvia","301 946-8853","123 Main St.","Oakland","CA","20853","cust@aol.com","M",10/5/1985 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",10/5/2010 0:00:00
+76,"Panteley4","Sylvia3","301 646-8853","123 Main St.","Rockville","MD","20853","cust@aol.com","U",7/1/1988 0:00:00,"abc-123-x-456","Travel","123-456-789","03-03",7/1/2013 0:00:00
+77,"Greene1","Morningstar1","615 397-2723","123 Main St.","Nashville","TN","37215","cust@aol.com","M",3/28/1991 0:00:00,"abc-123-x-456","Visa","123-456-789","03-03",3/28/2016 0:00:00
+78,"Hunter3","Sheryl2","415 636-7128","123 Main St.","Oakland","CA","94301","cust@aol.com","M",12/22/1993 0:00:00,"abc-123-x-456","Visa","123-456-789","03-03",12/22/2018 0:00:00
+79,"Hunter4","Sheryl3","415 536-7128","123 Main St.","Palo Alto","CA","94301","cust@aol.com","M",9/17/1996 0:00:00,"abc-123-x-456","Visa","123-456-789","03-03",9/17/2021 0:00:00
+80,"Hunter","Sheryl","415 836-7128","123 Main St.","Palo Alto","CA","94301","cust@aol.com","M",6/14/1999 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",6/14/2024 0:00:00
+81,"McBadden3","Heather2","707 648-4982","123 Main St.","Vacaville","CA","95688","cust@aol.com","F",3/10/2002 0:00:00,"abc-123-x-456","Visa","123-456-789","03-03",3/10/2027 0:00:00
+82,"McBadden","Heather","707 448-4982","123 Main St.","Vacaville","CA","95688","cust@aol.com","F",4/7/1928 0:00:00,"abc-123-x-456","Travel","123-456-789","03-03",4/7/1953 0:00:00
+83,"McBadden4","Heather3","707 748-4982","123 Main St.","San Jose","CA","95688","cust@aol.com","F",4/7/1928 0:00:00,"abc-123-x-456","Visa","123-456-789","03-03",4/7/1953 0:00:00
+84,"Ringer","Anne1","801 726-0752","123 Main St.","Salt Lake City","UT","84152","cust@aol.com","M",4/7/1928 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",4/7/1953 0:00:00
+85,"Ringer1","Anne3","801 526-0752","123 Main St.","Lawrence","KS","84152","cust@aol.com","M",1/2/1931 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",1/2/1956 0:00:00
+86,"Ringer4","Anne3","801 56-0752","123 Main St.","Salt Lake City","UT","84152","cust@aol.com","M",1/2/1931 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",1/2/1956 0:00:00
+87,"Ringer3","Anne1","801 726-0752","123 Main St.","Salt Lake City","UT","84152","cust@aol.com","M",1/2/1931 0:00:00,"abc-123-x-456","Travel","123-456-789","03-03",1/2/1956 0:00:00
+88,"Smith1","Meander1","913 743-0462","123 Main St.","Lawrence","KS","66044","cust@aol.com","M",9/28/1933 0:00:00,"abc-123-x-456","American Express","123-456-789","03-03",9/28/1958 0:00:00
+89,"Gringlesby1","Burt1","707 838-6445","123 Main St.","Covelo","CA","95428","cust@aol.com","F",9/28/1933 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",9/28/1958 0:00:00
+90,"Ringer","Albert","801 826-0752","123 Main St.","Salt Lake City","UT","84152","cust@aol.com","F",9/28/1933 0:00:00,"abc-123-x-456","Travel","123-456-789","03-03",9/28/1958 0:00:00
+91,"Ringer4","Albert2","801 626-0752","123 Main St.","Rockville","MD","84152","cust@aol.com","F",6/24/1936 0:00:00,"abc-123-x-456","MasterCard","123-456-789","03-03",6/24/1961 0:00:00
+92,"Ringer3","Albert","801 826-0752","123 Main St.","Salt Lake City","UT","84152","cust@aol.com","F",6/24/1936 0:00:00,"abc-123-x-456","Travel","123-456-789","03-03",6/24/1961 0:00:00
